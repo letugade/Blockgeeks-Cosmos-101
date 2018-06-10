@@ -1,2 +1,2 @@
-# Blockgeeks-Cosmos-101
-All the code for the Blockgeeks Cosmos 101 Course
+# Blockgeeks-Cosmos-Intro
+All the code for the Blockgeeks Cosmos Intro Course
